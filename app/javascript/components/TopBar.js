@@ -20,7 +20,7 @@ class TopBar extends React.Component {
         <Container>
           <Menu.Item as='a' header>
             <Image size='mini' src='/logo.png' style={{ marginRight: '1.5em' }} />
-            Project Name
+            San Rafael
           </Menu.Item>
           <Menu.Item as='a'>Home</Menu.Item>
 
